@@ -1,0 +1,45 @@
+{
+    "room": {
+        "exit": {
+            "type": "key",
+            "unlock_item_id": "key_1"
+        },
+        "items": [
+            {
+                "id": "box_1",
+                "type": "box",
+                "unlock_method": {
+                    "type": "password",
+                    "id": "password_1"
+                },
+                "contents": [
+                    "key_1"
+                ],
+                "show": true
+            },
+            {
+                "id": "key_1",
+                "type": "key",
+                "use": "box_1",
+                "show": false
+            },
+            {
+                "id": "recorder_1",
+                "type": "recorder",
+                "show": true,
+                "description": "An old recorder that might contain a clue to the password.",
+                "sound_file": "assets/recorder_speech_value.wav",
+                "interactive": true,
+                "sound_trigger": true
+            },
+            {
+                "id": "password_1",
+                "type": "password",
+                "value": "1243",
+                "show": false
+            }
+        ]
+    },
+    "story": "The story unfolds in a mansion that has long been abandoned. Years ago, the mansion was a hub for occult practices. The last owner, a reclusive scholar, tried to uncover the secrets of the house, but the curse claimed him. Now, the mansion is a forbidden place, known only to a few. Some claim that something still stirs within its walls, watching, waiting for the next victim. The room won’t show you the code—it will say it. Listen for four digits, then use them to open what hides the key."
+}
+

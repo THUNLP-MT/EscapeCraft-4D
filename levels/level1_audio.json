@@ -1,0 +1,10 @@
+{
+    "room": {
+        "exit": {
+            "type": "interact"
+        },
+        "items": [
+        ]
+    },
+    "story": "The story takes place in an abandoned underground research institute. This institute was originally a secret scientific research base, specializing in genetic modification and consciousness transmission experiments, trying to upload human consciousness to the virtual space. However, an experimental accident many years ago led to the blockade of the institute, and all scientists and experimental subjects were trapped inside. After the experiment failed, the underground research institute gradually lost contact with the outside world and became a forbidden place unknown to anyone. Only those who know the inside story know that there is still \"something\" running here, guarding unknown secrets."
+}

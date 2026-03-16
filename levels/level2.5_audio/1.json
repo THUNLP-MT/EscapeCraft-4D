@@ -1,0 +1,931 @@
+{
+    "prompt": "",
+    "instances": [
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                0.03750012442469597,
+                1.5,
+                1.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                0.03750012442469597,
+                1.5,
+                3.75
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_02",
+            "position": [
+                0.03750012442469597,
+                1.5,
+                6.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                1.25,
+                1.5,
+                0.03750012442469597
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                1.25,
+                -0.10000019520521164,
+                1.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                1.25,
+                3.1000001952052116,
+                1.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                1.25,
+                -0.10000019520521164,
+                3.75
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                1.25,
+                3.1000001952052116,
+                3.75
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                1.25,
+                -0.10000019520521164,
+                6.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                1.25,
+                3.1000001952052116,
+                6.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                1.25,
+                1.5,
+                7.462499875575304
+            ],
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                3.75,
+                1.5,
+                0.03750012442469597
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                3.75,
+                -0.10000019520521164,
+                1.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                3.75,
+                3.1000001952052116,
+                1.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                3.75,
+                -0.10000019520521164,
+                3.75
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                3.75,
+                3.1000001952052116,
+                3.75
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                3.75,
+                -0.10000019520521164,
+                6.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                3.75,
+                3.1000001952052116,
+                6.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                3.75,
+                1.5,
+                7.462499875575304
+            ],
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                6.25,
+                1.5,
+                0.03750012442469597
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                6.25,
+                -0.10000019520521164,
+                1.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                6.25,
+                3.1000001952052116,
+                1.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                7.462499875575304,
+                1.5,
+                1.25
+            ],
+            "rotation": [
+                0,
+                270,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                6.25,
+                -0.10000019520521164,
+                3.75
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                6.25,
+                3.1000001952052116,
+                3.75
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                7.462499875575304,
+                1.5,
+                3.75
+            ],
+            "rotation": [
+                0,
+                270,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                6.25,
+                -0.10000019520521164,
+                6.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Floor6_01",
+            "position": [
+                6.25,
+                3.1000001952052116,
+                6.25
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                1.0,
+                1,
+                1.0
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                7.462499875575304,
+                1.5,
+                6.25
+            ],
+            "rotation": [
+                0,
+                270,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Wall1_C1_01",
+            "position": [
+                6.25,
+                1.5,
+                7.462499875575304
+            ],
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.5
+            ],
+            "type": "kinematic"
+        },
+        {
+            "prefab": "LowPolyInterior2_Toilet1_C2_01",
+            "position": [
+                0.28999999165534973,
+                0.15000003576278687,
+                7.149999976158142
+            ],
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior2_Washer_01",
+            "position": [
+                7.074999988079071,
+                0.42500007152557373,
+                7.1439976543188095
+            ],
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior2_Vase_04",
+            "position": [
+                7.228296339511871,
+                0.3916139602661133,
+                0.23049689829349518
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior2_Bin",
+            "position": [
+                7.225419104099274,
+                0.15230585634708405,
+                2.6798264532153477
+            ],
+            "rotation": [
+                0,
+                270,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior2_Bathroom_04",
+            "position": [
+                4.657712174491012,
+                0.2500000596046448,
+                4.919420552970991
+            ],
+            "rotation": [
+                0,
+                270,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior2_Vase_02",
+            "position": [
+                3.3337255001681347,
+                0.3443698585033417,
+                0.1629503071308136
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior_Bath",
+            "position": [
+                1.499545918541493,
+                0.2872684895992279,
+                6.99313884973526
+            ],
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior2_BathroomProps_13",
+            "position": [
+                2.524649192218101,
+                0.23403647541999817,
+                7.26900608509318
+            ],
+            "rotation": [
+                0,
+                270,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "LowPolyInterior2_Plant_06",
+            "position": [
+                1.5118081770915541,
+                0.09187773615121841,
+                0.2320190817117691
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "parent": 2,
+            "type": "kinematic",
+            "room_id": 2,
+            "is_receptacle": true
+        },
+        {
+            "prefab": "..\\..\\prefabs\\prefabs\\recorder\\recorder_withsound.glb",
+            "position": [
+                4.637803110269936,
+                0.3946184610431729,
+                4.536939518118634
+            ],
+            "type": "kinematic",
+            "parent": "LowPolyInterior2_Bathroom_04",
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "item_type": "recorder",
+            "item_id": "recorder_1",
+            "sound_file": "assets/recorder_speech_value.wav",
+            "interaction_angle": 360,
+            "interaction_distance": 4.0
+        },
+        {
+            "prefab": "..\\..\\prefabs\\prefabs\\radiogram\\radiogram_withsound.glb",
+            "position": [
+                4.623918623661713,
+                0.4985778528931487,
+                5.239095288789473
+            ],
+            "type": "kinematic",
+            "parent": "LowPolyInterior2_Bathroom_04",
+            "scale": [
+                0.005,
+                0.005,
+                0.005
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "item_type": "radiogram",
+            "item_id": "radiogram_1",
+            "sound_file": "assets/radiogram_speech.wav",
+            "interaction_angle": 360,
+            "interaction_distance": 4.0
+        },
+        {
+            "prefab": "..\\..\\prefabs\\prefabs\\door\\door_1.glb",
+            "position": [
+                0.03750012442469597,
+                1.1299999952316284,
+                6.25
+            ],
+            "scale": [
+                0.02311751852741601,
+                0.0121601897053435,
+                0.012695199768617311
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "item_type": "exit",
+            "type": "kinematic",
+            "item_id": "exit",
+            "sound_file": "assets/gentle_breeze.mp3",
+            "sound_type": "ambient",
+            "volume": 0.6,
+            "max_distance": 8.0
+        }
+    ],
+    "player": {
+        "prefab": "",
+        "position": [
+            3.7156148185115354,
+            0.05,
+            0.7276442766413439
+        ],
+        "rotation": [
+            0,
+            -31.831010140835016,
+            0
+        ],
+        "scale": [
+            1,
+            1,
+            1
+        ],
+        "parent": -1,
+        "type": ""
+    },
+    "agent": {
+        "prefab": "",
+        "position": [
+            1.9620416894525872,
+            0.05,
+            3.552453305187779
+        ],
+        "rotation": [
+            0,
+            151.64080861075632,
+            0
+        ],
+        "scale": [
+            1,
+            1,
+            1
+        ],
+        "parent": -1,
+        "type": ""
+    },
+    "center": [
+        3.75,
+        12,
+        3.75
+    ],
+    "room_polygon": [
+        {
+            "room_id": 2,
+            "room_type": "Bathroom",
+            "position": [
+                4.4799999999999995,
+                1.5,
+                3.02
+            ],
+            "size": [
+                7.300000000000001,
+                3,
+                7.300000000000001
+            ],
+            "polygon": [
+                [
+                    7.4,
+                    0.1
+                ],
+                [
+                    0.1,
+                    0.1
+                ],
+                [
+                    0.1,
+                    7.4
+                ],
+                [
+                    7.4,
+                    7.4
+                ],
+                [
+                    7.4,
+                    0.1
+                ]
+            ]
+        }
+    ]
+}

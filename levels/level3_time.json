@@ -1,0 +1,41 @@
+{
+    "room": {
+        "exit": {
+            "type": "password",
+            "unlock_item_id": "password_1"
+        },
+        "items": [
+            {
+                "id": "recorder_1",
+                "type": "recorder",
+                "show": true,
+                "description": "The prompt ask the player to find the password in the room in a limited time",
+                "trigger_mode": "grab",
+                "sound_file": "assets/find_password.mp3",
+                "interactive": true,
+                "sound_trigger": true,
+                "change_trigger": {
+                    "type": "reveal",
+                    "target_item_id": "password_1",
+                    "target_item_type": "password"
+                }
+            },
+            {
+                "id": "password_1",
+                "type": "password",
+                "value": "1243",
+                "show": false,
+                "on_trigger":{
+                    "type": "time_limit",
+                    "limit_setting": {
+                        "limit_seconds": 20,
+                        "on_timeout": "fade"
+                    },
+                    "trigger_times": "single"
+                }
+            }
+        ]
+    },
+    "story": "The story unfolds in a mansion that has long been abandoned. Years ago, the mansion was a hub for occult practices. The last owner, a reclusive scholar, tried to uncover the secrets of the house, but the curse claimed him. Now, the mansion is a forbidden place, known only to a few. Some claim that something still stirs within its walls, watching, waiting for the next victim. To escape, you must first discover the password hidden within a sound-emitting object in this room. Then, use that password to unlock the box, which contains the key needed to open the exit door."
+}
+

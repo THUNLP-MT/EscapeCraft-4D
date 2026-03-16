@@ -1,0 +1,19 @@
+{
+    "rooms_1": {
+        "url": "https://skfb.ly/6xySP"
+    },
+    "box_1": {
+        "url": "https://skfb.ly/6W8AF"
+    },
+    "key_1": {
+        "rotation": [1, 0, 0],
+        "scale": [0.0002, 0.0002, 0.0002],
+        "url": "https://skfb.ly/6QWKT"
+    },
+    "door_1": {
+        "url": "https://skfb.ly/6xHCL"
+    },
+    "paper_1": {
+        "url": "https://skfb.ly/oIZVo"
+    }
+}

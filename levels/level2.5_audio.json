@@ -1,0 +1,34 @@
+{
+    "room": {
+        "exit": {
+            "type": "password",
+            "unlock_item_id": "password_1"
+        },
+        "items": [
+            {
+                "id": "recorder_1",
+                "type": "recorder",
+                "show": true,
+                "description": "An old recorder that might contain a clue to the password.",
+                "sound_file": "assets/recorder_speech_value.wav",
+                "interactive": true,
+                "sound_trigger": true
+            },
+            {
+                "id": "password_1",
+                "type": "password",
+                "value": "1243",
+                "show": false
+            },{
+                "id": "radiogram_1",
+                "type": "radiogram",
+                "show": true,
+                "description": "An radiogram that might contain a clue to the password.",
+                "sound_file": "assets/radiogram_speech.wav",
+                "interactive": true,
+                "sound_trigger": true
+            }
+        ]
+    },
+    "story": "The story takes place in an abandoned underground research institute. This institute was originally a secret scientific research base, specializing in genetic modification and consciousness transmission experiments, trying to upload human consciousness to the virtual space. However, an experimental accident many years ago led to the blockade of the institute, and all scientists and experimental subjects were trapped inside. After the experiment failed, the underground research institute gradually lost contact with the outside world and became a forbidden place unknown to anyone. Only those who know the inside story know that there is still \"something\" running here, guarding unknown secrets. "
+}

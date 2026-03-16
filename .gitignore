@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.conda/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Legent environment (binary files)
+src/.legent/
+LEGENT-env/
+
+# Game cache and logs (generated at runtime)
+game_cache/
+src/game_cache/
+src/game_cache_*/
+src/_game_cache_*/
+logs/
+*.log
+
+# Exported data
+json_logs_export/
+json_logs_export.zip
+export_json_logs.py
+
+# Static assets (images/videos)
+static/images/
+static/video/
+
+# Backup files
+backup/
+*.bak
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Temporary files
+src/scripts/last_scene.json
+levels/scene_data/
+levels/scene_dataabk/
+*.tmp
+*.swp
+
+# Model outputs and test results
+*.pkl
+*.pth
+*.ckpt
