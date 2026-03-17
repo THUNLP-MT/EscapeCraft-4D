@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <a href="https://arxiv.org/abs/COMING SOON">
-    <img src="https://img.shields.io/badge/arXiv-COMING%20SOON-b31b1b.svg" alt="ArXiv">
+  <a href="https://arxiv.org/abs/2603.15467">
+    <img src="https://img.shields.io/badge/arXiv-2603.15467-b31b1b.svg" alt="ArXiv">
   </a>
   <a href="https://thunlp-mt.github.io/EscapeCraft-4D/">
     <img src="https://img.shields.io/badge/Homepage-COMING%20SOON-blue" alt="Homepage">
@@ -193,4 +193,16 @@ game_cache/
     ...
 ```
 
-
+## Citation
+If you find this repository useful, please cite our paper:
+```bibtex
+@misc{dong2026evaluatingtimeawarenesscrossmodal,
+      title={Evaluating Time Awareness and Cross-modal Active Perception of Large Models via 4D Escape Room Task}, 
+      author={Yurui Dong and Ziyue Wang and Shuyun Lu and Dairu Liu and Xuechen Liu and Fuwen Luo and Peng Li and Yang Liu},
+      year={2026},
+      eprint={2603.15467},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.15467}, 
+}
+```
