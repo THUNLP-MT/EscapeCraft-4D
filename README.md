@@ -23,15 +23,17 @@
   - **Time-aware Design**
   - **Misleading Modality Clues**
 
-- About the team[🧑🏻‍🎓](http://profile.yuruid.com/academic-homepage/)👩🏻‍🎓👩🏻‍🎓🧑🏻‍🎓🧑🏻‍🎓🧑🏻‍🎓🧑🏻‍🏫🧑🏻‍🏫
+- About the team[🧑🏻‍🎓](http://profile.yuruid.com/academic-homepage/)👩🏻‍🎓🧑🏻‍🎓👩🏻‍🎓🧑🏻‍🎓🧑🏻‍🎓🧑🏻‍🏫🧑🏻‍🏫
   - Team members are from THUNLP (Tsinghua University), Fudan University, Nankai University, Xi’an Jiaotong-Liverpool University and University of Sci&Tech Beijing.
-  - As experienced escape game players, we are curious about how MLLMs would perform in such an environment.
+  - As experienced escape game players, we are curious about how advanced omni-models would perform in such an environment.
   - We are seeking to expand our project to broader tasks, such as multi-agent collaboration, RL-playground construction and etc. **If you are interested in our project, feel free to contact us.** ([✉️email](mailto:w.ziyue1010@gmail.com))
+  - [15-Oct-2026] We regret to announce that we have decided to discontinue future maintenance and development on this project, as our team members are moving on to different universities and companies. However, we still welcome related discussions and issues! We would be thrilled to see future researchers build upon this project—whether by extending the environment or advancing autonomous omni-agents within it.
 
     ☀️ We live to enjoy life, not just to work.
 
 ## 📢Timeline
-1. [16-Mar-2026] Repo and paper released 
+1. [22-Aug-2026] Paper accepted as main conference paper of EMNLP 2026, see you in Budapest!
+2. [16-Mar-2026] Repo and paper released 
 
 ## Example for EscapeCraft-4D
 <p align="center">
